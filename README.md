@@ -1,6 +1,6 @@
 # NIKE STORE
 
-AI Summarizer is a web page that allows you to summarize English articles using the provided URL. It is built with React, TypeScript, and Vite, and hosted on Netlify. The main functionality is achieved by leveraging the API provided by [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
+Nike iComer es una aplicación de la tienda en línea que te permite explorar y comprar productos de la reconocida marca Nike. La aplicación está desarrollada utilizando React, TypeScript y Redux Toolkit, lo que garantiza un rendimiento óptimo y una experiencia de usuario fluida.
 
 
 
