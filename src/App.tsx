@@ -1,4 +1,4 @@
-import { Footer, Hero, Sales, Stories } from "./components";
+import { Cart, Footer, Hero, Sales, Stories } from "./components";
 import FlexContent from "./components/FlexContent";
 import Navbar from "./components/Navbar";
 import {
@@ -15,6 +15,7 @@ const App = () => {
   return (
     <>
       <Navbar />
+      <Cart />
       <main className="flex flex-col gap-16 relative">
         <Hero heroapi={heroapi} />
         <Sales endpoint={popularsales} ifExists />
